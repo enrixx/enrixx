@@ -1,5 +1,5 @@
 ## Hi there 👋
-This Account looks empty because I write code that make money
+This Account looks empty because I write code that makes money
 <!--
 **enrixx/enrixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
